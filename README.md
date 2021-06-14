@@ -5,12 +5,12 @@ I’m a Cyber Security enthusiast & a junior pursuing my Bachelors in Informatio
 Experiences:
 
 • Ardent  Computech Pvt. Ltd.							 Kolkata, 
-  Cyber Security Intern -	                                                              Jul 2020 – Aug 2020
+  Cyber Security Intern -	                                                                                     Jul 2020 – Aug 2020
    Implemented Wi-Fi jamming using Linux to check the threats that can occur to an organization
  
-• Hand drawn geometrical shape recognizer:                                                   Nov 2020 – Dec 2020 
+• Hand drawn geometrical shape recognizer:                                                                     Nov 2020 – Dec 2020 
   Trained a model to recognize geometrical shapes using Machine learning
-•	Medication response model:                                                                             Dec 2020 – Jan 2020 
+•	Medication response model:                                                                                   Dec 2020 – Jan 2020 
   Used Classification to build a model from historical data of patients and how they respond to different medications and also implemented decision tree to predict the class of an unknown patient.
 •	Cancer cell prediction:                                                                                      Jan 2021 –  Feb 2021
    Using SVM (Support Vector Machine) built and trained a model to tell whether the sample cells are benign or malignant
